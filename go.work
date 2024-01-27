@@ -1,0 +1,12 @@
+go 1.21.1
+
+use ./
+use ./microservice/cek-saldo-service
+use ./microservice/cek-harga-service
+use ./microservice/cek-mutasi-service
+use ./microservice/input-harga-service
+use ./microservice/input-harga-storage-service
+use ./microservice/buyback-service
+use ./microservice/buyback-storage-service
+use ./microservice/topup-service
+use ./microservice/topup-storage-service
