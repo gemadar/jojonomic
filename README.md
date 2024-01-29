@@ -19,4 +19,4 @@ Berikut endpoint beserta port:
 6. Buyback
     :8084/api/buyback
 
-Dikarenakan tidak ada API untuk API rekening, maka telah dibuatkan satu row data rekening dengan norek : 12345678
+Dikarenakan tidak ada API untuk input rekening, maka telah dibuatkan satu row data rekening dengan norek : 12345678
