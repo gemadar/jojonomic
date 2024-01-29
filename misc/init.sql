@@ -32,3 +32,4 @@ CREATE TABLE IF NOT EXISTS public.transaksi
 );
 
 INSERT INTO public.harga (admin_id, harga_buyback, harga_topup) VALUES (null, null, null);
+INSERT INTO public.rekening (norek, saldo) VALUES ('12345678', 0.001)
